@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @rodrii-dp
+- 👋 Hi, I’m Rodrigo
 - 👀 I’m interested in software development. Especially on Mobile develepoment
 - 🌱 I’m currently learning Python
