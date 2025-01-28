@@ -24,8 +24,8 @@ I am a passionate software developer with a keen interest in solving complex pro
 
 ## 🌟 Top Repositories
 
-[![FreeTour: A Tourism Application](https://github-readme-stats.vercel.app/api/pin/?username=rodrii-dp&repo=repo1&theme=radical)](https://github.com/rodrii-dp/FreeTour)
-[![Hackathon For CaixaBank Tech: A React Challenge](https://github-readme-stats.vercel.app/api/pin/?username=rodrii-dp&repo=repo2&theme=radical)](https://github.com/rodrii-dp/hackathon-caixabank)
+[![FreeTour: A Tourism Application](https://github-readme-stats.vercel.app/api/pin/?username=rodrii-dp&repo=FreeTour&theme=radical)](https://github.com/rodrii-dp/FreeTour)
+[![Hackathon For CaixaBank Tech: A React Challenge](https://github-readme-stats.vercel.app/api/pin/?username=rodrii-dp&repo=hackathon-caixabank&theme=radical)](https://github.com/rodrii-dp/hackathon-caixabank)
 
 ## 📫 Connect with Me
 
