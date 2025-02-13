@@ -16,7 +16,7 @@ I am a passionate software developer with a keen interest in solving complex pro
 - **Languages:** Python, JavaScript, Java, C++
 - **Web Development:** HTML, CSS, React, Node.js
 - **Databases:** MySQL, MongoDB
-- **Tools:** Git, Docker, Kubernetes, Jenkins
+- **Tools:** Git, Docker
 
 ## 📈 GitHub Stats
 
