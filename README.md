@@ -13,9 +13,9 @@ I am a passionate software developer with a keen interest in solving complex pro
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** Python, JavaScript, Java, C++
-- **Web Development:** HTML, CSS, React, Node.js
-- **Databases:** MySQL, MongoDB
+- **Languages:** Python, JavaScript, Java
+- **Web Development:** HTML, CSS, React, React Native, Angular, Node.js and starting with Spring Boot
+- **Databases:** PostgreSQL, MongoDB
 - **Tools:** Git, Docker
 
 ## 📈 GitHub Stats
