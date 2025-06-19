@@ -8,7 +8,7 @@ I am a passionate software developer with a keen interest in solving complex pro
 
 - 🌱 I’m currently learning advanced algorithms and machine learning techniques.
 - 💬 Ask me about web development, Python, and open source contributions.
-- 📫 How to reach me: [rodrii@example.com](mailto:rrddpp1@gmail.com)
+- 📫 How to reach me: [rrddpp1@gmail.com](mailto:rrddpp1@gmail.com)
 - ⚡ Fun fact: I love playing chess and hiking in my free time.
 
 ## 🛠️ Technologies & Tools
